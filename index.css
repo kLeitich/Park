@@ -17,65 +17,15 @@ h1{
   color: #ffffff;
   height: 70px;
   color: black;
+  font-size: 15px;
 }
 
 .footer{
     background-color: #14e91b;
-    height: 70px;
+    height: 30px;
 }
-.payment-modes{
-    
-    display: flex;
-    justify-content: space-between;
-    height: 250px;
-    box-sizing: border-box;
-    padding: 0px 150px 0px 150px;box-sizing: border-box;
-    
-
-}
-.visa, .Mpesa, .wallet{
-    align-items: center;
-    background-color: #23559F;
-    
-    text-align: center;
-    padding-bottom: 100px;
-    
-  
-    
-}
-.visa{
-    background-color: gold;
-    color: #ffffff;
-    width: 27%;
-    padding-left: 50px;
-    height: 180px;
-    
-}
-.Mpesa{
-    background-color: #14e91b;
-    color: #ffffff;
-    height: 180px;
-}
-.wallet{
-    background-color: black;
-    padding-left: 10px;
-    padding-bottom: 30px;
-    width: 27%;
-    height: 250px;
-    
-}
-h4{
-    color: #ffffff;
-    text-align: center;
-    font-weight: 700;
-}
-.proceed-btn{
-    align-content: center;
-    padding: 5px 20px;
-    border-radius: 6px;
 
 
-}
 .images{
     display: flex;
     justify-content: space-between;
