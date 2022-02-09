@@ -7,35 +7,10 @@
     background-color:  #14e91b;
     height: 80px;
     color: white;
-
-    
-}
-    
-    
-
-ul{
-    height: 50px;
-     display: flex;
-    justify-content: space-evenly;
-    padding: 5px;
-    color: white;
+    display: flex;
     
 }
 
-ul li{
-    display: inline;
-    margin: 0;
-    list-style: none;
-    
-}
-
-
-ul li a{
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 16px;
-    color:white
-}
 
 h1{
   text-align: center;
@@ -104,8 +79,29 @@ h4{
 .images{
     display: flex;
     justify-content: space-between;
-    height: 150px;
+    height: 500px;
     width: 100%;
     padding-top: 320px;
 
 }
+
+input[type="number"]::-webkit-outer-spin-button, 
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+
+
+
+
+
+
+
+
+
+
+
