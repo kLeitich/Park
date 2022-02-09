@@ -134,7 +134,7 @@ h1 {
 .icon {
     display: flex;
     align-items: center;
-    height: 12vh;
+    height: 12vh
 }
 
 .icon i {
