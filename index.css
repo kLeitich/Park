@@ -12,28 +12,36 @@
 }
 
 
-h1{
+h4{
   text-align: center;
   color: #ffffff;
   height: 70px;
   color: black;
-  font-size: 15px;
+  
 }
 
 .footer{
     background-color: #14e91b;
     height: 30px;
 }
-
-
-.images{
-    display: flex;
-    justify-content: space-between;
-    height: 500px;
-    width: 100%;
-    padding-top: 320px;
+.btn{
+    background-color:  blue;
+    color: #ffffff;
 
 }
+.form-select-sm{
+    width: 68%;
+    margin-left: 50px;
+}
+.card-2{
+    background-color:#14e91b ;
+}
+.date{
+    width: 68%;
+}
+
+
+
 
 input[type="number"]::-webkit-outer-spin-button, 
 input[type="number"]::-webkit-inner-spin-button {
